@@ -128,22 +128,6 @@ The system demonstrated robustness and consistent performance across all scenari
 
 ---
 
-## 📂 Project Structure
-
-Lane-Detection/
-│── input_videos/
-│── output_results/
-│── src/
-│    ├── preprocessing.py
-│    ├── fuzzy_controller.py
-│    ├── lane_detection.py
-│    ├── temporal_tracking.py
-│── main.py
-│── requirements.txt
-│── README.md
-
----
-
 ## ⚙ Installation
 
 ```bash
